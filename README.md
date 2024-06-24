@@ -1,4 +1,4 @@
-Job Scraping Application
+Job Scraping Application<br>
 This Flask web application allows users to search for job listings based on job title and location. The application scrapes job data from multiple sources, including Deloitte, Stripe, SonicWall, and Infosys, and displays the aggregated results on a web page.
 <br>
 Features-<br>
